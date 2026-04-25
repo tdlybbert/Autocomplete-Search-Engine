@@ -3,6 +3,7 @@ A Python implementation of a prefix-based autocomplete system using a Trie data 
 
 How to run:
 Run the command to import dictionary: curl -o words.txt https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt
+
 Then run: python main.py
 
 Required input:
