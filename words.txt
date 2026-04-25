@@ -1,1 +1,2 @@
-import dictionary from Dictionary
+pip install PyDictionary
+import PyDictionary from PyDictionary
