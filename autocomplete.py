@@ -10,7 +10,7 @@ class Autocomplete:
       self.trie.insert(word)
 
   def suggest(self, prefix: str) -> list[str]:
-    return.trie.search(prefix)
+    return self.trie.search(prefix)
 
   def run(self) -> None:
     print("Autocomplete Search Engine")
