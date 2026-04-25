@@ -3,6 +3,7 @@ A Python implementation of a prefix-based autocomplete system using a Trie data 
 
 How to run:
 python main.py
+
 python main.py path/to/words.txt
 
 Required input:
