@@ -1,3 +1,5 @@
+from trie_node import TrieNode
+
 def __init__(self):
   self.root = TrieNode()
 
